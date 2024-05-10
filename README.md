@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I'm a 3rd semester student Informatic Engineering at Amikom University Yogyakarta with a passion web development. i'm honed skills in HTML, CSS, PHP, Python and JavaScript. I'm learning about the PHP framework, namely CodeIgniter3 (CI3), which helps me in creating a dynamic website.
+I'm a 4rd semester student Informatic Engineering at Amikom University Yogyakarta with a passion web development. i'm honed skills in HTML, CSS, PHP, Python and JavaScript. I'm learning about the PHP framework, namely CodeIgniter3 (CI3) and laravel, which helps me in creating a dynamic website.
 ## Other Common Github Profile Sections
 🧠 I'm currently learning PHP, Python, JavaScript.
 
