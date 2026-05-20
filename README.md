@@ -7,9 +7,19 @@
 
 
 ## 🚀 About Me
-I'm a fresh graduated Informatic Engineering at Amikom University Yogyakarta with a passion web development. i'm honed skills in HTML, CSS, PHP, Python and JavaScript. I'm learning about the WEB framework, namely CodeIgniter3 (CI3), laravel, dan reactJS, which helps me in creating a dynamic website.
-## Other Common Github Profile Sections
-🧠 I'm currently learning PHP, HTML, CSS, JavaScript.
 
-📫 Can reach me via email muhamadkharislksmn@gmail.com
+I'm an Informatics Engineering graduate from Amikom University Yogyakarta with a strong passion for web development. I specialize in building responsive, user-friendly, and performant web applications, focusing closely on modern frontend technologies.
+
+With a solid foundation in core web technologies, I continuously expand my expertise by working with modern frameworks and tools to deliver high-quality digital solutions.
+
+## 🛠️ Tech Stack & Tools
+
+* **Frontend:** JavaScript (ES6+), ReactJS, Vite, Tailwind CSS, Gatsby
+* **Backend & Frameworks:** Laravel (Blade), CodeIgniter 3, PHP, Python
+* **Tools & Platforms:** Git, GitHub, Netlify, Firebase
+
+## 📫 Connect with me
+
+* **Email:** muhamadkharislksmn@gmail.com
+* **LinkedIn:** [linkedin.com/in/muhamad-kharis](https://linkedin.com/in/muhamad-kharis)
 </div>
